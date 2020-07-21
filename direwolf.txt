@@ -1,0 +1,7 @@
+LSHIFT+w petcom_pow dire aggressive
+LSHIFT+s petcom_pow dire defensive
+LSHIFT+x petcom_pow dire passive
+LSHIFT+e petcom_pow dire attack
+LSHIFT+d petcom_pow dire follow
+LSHIFT+c petcom_pow dire goto
+LSHIFT+p petcom_pow dire dismiss

@@ -1,0 +1,10 @@
+CAPITAL bind_load_file "Z:/Applications/coh/binds/mmall.txt"
+LSHIFT+q bind_load_file "Z:/Applications/coh/binds/batt.txt"
+LSHIFT+a bind_load_file "Z:/Applications/coh/binds/prot.txt"
+LSHIFT+z bind_load_file "Z:/Applications/coh/binds/assa.txt"
+LSHIFT+r pow_exec_name battle drones
+LSHIFT+f pow_exec_name protector bots
+LSHIFT+v pow_exec_name assault bot
+LSHIFT+t pow_exec_name equip robot
+LSHIFT+g pow_exec_name upgrade robot
+LSHIFT+b pow_exec_name repair

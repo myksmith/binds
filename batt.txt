@@ -1,0 +1,7 @@
+LSHIFT+w petcom_pow battle aggressive
+LSHIFT+s petcom_pow battle defensive
+LSHIFT+x petcom_pow battle passive
+LSHIFT+e petcom_pow battle attack
+LSHIFT+d petcom_pow battle follow
+LSHIFT+c petcom_pow battle goto
+LSHIFT+p petcom_pow battle dismiss

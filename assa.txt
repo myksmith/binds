@@ -1,0 +1,7 @@
+LSHIFT+w petcom_pow assault aggressive
+LSHIFT+s petcom_pow assault defensive
+LSHIFT+x petcom_pow assault passive
+LSHIFT+e petcom_pow assault attack
+LSHIFT+d petcom_pow assault follow
+LSHIFT+c petcom_pow assault goto
+LSHIFT+p petcom_pow assault dismiss

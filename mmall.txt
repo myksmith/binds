@@ -1,0 +1,7 @@
+LSHIFT+w petcom_all aggressive
+LSHIFT+s petcom_all defensive
+LSHIFT+x petcom_all passive
+LSHIFT+e petcom_all attack
+LSHIFT+d petcom_all follow
+LSHIFT+c petcom_all goto
+LSHIFT+p petcom_all dismiss

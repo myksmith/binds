@@ -1,0 +1,7 @@
+LSHIFT+w petcom_pow protector aggressive
+LSHIFT+s petcom_pow protector defensive
+LSHIFT+x petcom_pow protector passive
+LSHIFT+e petcom_pow protector attack
+LSHIFT+d petcom_pow protector follow
+LSHIFT+c petcom_pow protector goto
+LSHIFT+p petcom_pow protector dismiss

@@ -1,0 +1,7 @@
+LSHIFT+w petcom_pow wolves aggressive
+LSHIFT+s petcom_pow wolves defensive
+LSHIFT+x petcom_pow wolves passive
+LSHIFT+e petcom_pow wolves attack
+LSHIFT+d petcom_pow wolves follow
+LSHIFT+c petcom_pow wolves goto
+LSHIFT+p petcom_pow wolves dismiss

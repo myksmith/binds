@@ -1,0 +1,10 @@
+CAPITAL bind_load_file "Z:/Applications/coh/binds/mmall.txt"
+LSHIFT+x bind_load_file "Z:/Applications/coh/binds/wolves.txt"
+LSHIFT+a bind_load_file "Z:/Applications/coh/binds/lions.txt"
+LSHIFT+z bind_load_file "Z:/Applications/coh/binds/direwolf.txt"
+LSHIFT+r pow_exec_name summon wolves
+LSHIFT+f pow_exec_name summon lions
+LSHIFT+v pow_exec_name summon dire wolf
+LSHIFT+t pow_exec_name train beasts
+LSHIFT+g pow_exec_name fortify pack
+LSHIFT+B pow_exec_name tame beasts

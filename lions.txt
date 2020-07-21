@@ -1,0 +1,7 @@
+LSHIFT+w petcom_pow lions aggressive
+LSHIFT+s petcom_pow lions defensive
+LSHIFT+x petcom_pow lions passive
+LSHIFT+e petcom_pow lions attack
+LSHIFT+d petcom_pow lions follow
+LSHIFT+c petcom_pow lions goto
+LSHIFT+p petcom_pow lions dismiss
