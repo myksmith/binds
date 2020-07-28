@@ -13,4 +13,5 @@ SHIFT+TAB "target_enemy_prev"
 T "pow_exec_name entangling aura"
 LALT+Z "pow_exec_name overgrowth"
 LALT+R "pow_exec_name rebirth"
+LALT+X "pow_exec_name bonfire"
 

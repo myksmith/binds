@@ -15,3 +15,23 @@ ALT+c "powexec_slot 3"
 ALT+v "powexec_slot 4"
 ALT+b "powexec_slot 5"
 
+
+q "powexecname transfusion"
+e "powexecname siphon power"
+f "powexecname shadow field"
+g "powexecname living shadows"
+
+LSHIFT+r "powexecname rune of protection"
+LSHIFT+a "powexecname siphon speed"
+LSHIFT+s "powexecname speed boost"
+LSHIFT+d "powexecname increase density"
+LSHIFT+f "powexecname enflame"
+LSHIFT+g "powexecname fearsome stare"
+
+z "powexecname dark grasp"
+x "powexecname shadowy binds"
+c "powexecname arcane bolt"
+v "powexecname haunt"
+b "powexecname heart of darkness"
+
+
