@@ -17,12 +17,13 @@ ALT+b "powexec_slot 5"
 
 
 q "powexecname transfusion"
-e "powexecname siphon power"
+e "powexecname aid other"
 f "powexecname shadow field"
 g "powexecname living shadows"
 
 LSHIFT+r "powexecname rune of protection"
 LSHIFT+a "powexecname siphon speed"
+LSHIFT+z "powexecname siphon power"
 LSHIFT+s "powexecname speed boost"
 LSHIFT+d "powexecname increase density"
 LSHIFT+f "powexecname enflame"
